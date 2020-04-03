@@ -128,7 +128,7 @@ class Plugin extends Extension{
                 'atts' => array(
                     'id' => 'gh_slack_api_key',
                     'name' => 'gh_slack_api_key',
-                    'placeholder' => 'XXXXc21e92c7b3313e35e39b3d09619ad884XXXX'
+                    'placeholder' => 'xoxp-123XXX1903815-11111903895-10XX726841111-xx69d339xxxxd055dc90ebfed4f1xxxx'
                 ),
             );
         
@@ -141,7 +141,7 @@ class Plugin extends Extension{
                 'atts' => array(
                     'id' => 'gh_slack_team_id',
                     'name' => 'gh_slack_team_id',
-                    'placeholder' => 'T123456'
+                    'placeholder' => 'T011B1XXXX'
                 ),
             );
              
