@@ -1,8 +1,8 @@
-# Groundhogg-Slack
+# Groundhogg Extension for Slack
 
 A simple extension for Groundhogg that allows you to add and remove users from your Slack workspace, in addition to adding and removing them from specific channels.
 
-This free extension is built by Colin Longworth from WooNinja.io
+This free extension is built by Colin Longworth from WooNinja.io. It is not endorsed or supported by Groundhogg or Slack.
 
 ## Important - Read Me First
 
