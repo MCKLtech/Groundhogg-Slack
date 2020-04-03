@@ -1,0 +1,7 @@
+{
+    "require": {
+        "symfony/http-client": "^5.0",
+        "nyholm/psr7": "^1.2",
+        "jolicode/slack-php-api": "^2.4"
+    }
+}
